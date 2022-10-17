@@ -1,4 +1,3 @@
-
 ## CATs++: Boosting Cost Aggregation with Convolutions and Transformers (TPAMI'22)
 For more information, check out the paper on [[arXiv](https://arxiv.org/abs/2202.06817)].
 
