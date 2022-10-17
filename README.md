@@ -21,7 +21,20 @@ conda env create -f environment.yml
 ```
 
 # Evaluation
-Pretrained weigts will be available soon.
+- Download pre-trained weights on [Link](https://drive.google.com/drive/folders/1pisfmn5VCNYQqYDXN7uMfX5X3CunnMVk?usp=sharing)
+- All datasets are automatically downloaded into directory specified by argument `datapath`
+
+Result on SPair-71k:
+
+      python test.py --pretrained "/path_to_pretrained_model/spair" --benchmark spair
+
+Results on PF-PASCAL:
+
+      python test.py --pretrained "/path_to_pretrained_model/pfpascal" --benchmark pfpascal
+
+Results on PF-WILLOW:
+
+      python test.py --pretrained "/path_to_pretrained_model/pfpascal" --benchmark pfwillow --thres {bbox|bbox-kp}
 
 # Acknowledgement <a name="Acknowledgement"></a>
 
