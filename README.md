@@ -3,7 +3,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cats-boosting-cost-aggregation-with/semantic-correspondence-on-spair-71k)](https://paperswithcode.com/sota/semantic-correspondence-on-spair-71k?p=cats-boosting-cost-aggregation-with)
 
 ## CATs++: Boosting Cost Aggregation with Convolutions and Transformers (TPAMI'22)
-For more information, check out the paper on [[arXiv](https://arxiv.org/abs/2202.06817)]. Final version will be available.
+For more information, check out the paper on [[arXiv](https://arxiv.org/abs/2202.06817)]. Also check out project page here [[Project Page](https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/)]
 
 # Network
 
