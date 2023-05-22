@@ -21,7 +21,7 @@ conda env create -f environment.yml
 ```
 
 # Evaluation
-- Download pre-trained weights on [Link](https://drive.google.com/drive/folders/1pisfmn5VCNYQqYDXN7uMfX5X3CunnMVk?usp=sharing)
+- Download pre-trained weights on [Link](https://koreaoffice-my.sharepoint.com/:f:/g/personal/seokju_cho_korea_ac_kr/EhRVGtqv611CuYFFW-YiLhwB6un0ubPdN3dYgsraMDn-NA?e=aQdenK)
 - All datasets are automatically downloaded into directory specified by argument `datapath`
 
 Result on SPair-71k:
